@@ -1,0 +1,51 @@
+.or-text {
+    position: relative;
+}
+
+.or-text span {
+    position: relative;
+    background-color: white;
+    padding: 10px 25px;
+    z-index: 1;
+}
+
+.or-text::after {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.connect-social {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 8px;
+    font-size: 16px;
+    color: #2a414e;
+    border-radius: 4px;
+    border: 0.5px solid #2a414ea9;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.connect-social img {
+    width: 25px;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .m-res-user-auth {
+        width: 90% !important;
+    }
+}

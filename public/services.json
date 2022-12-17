@@ -1,0 +1,23 @@
+[
+	{
+		"id": "625b09651043213c25c7008c",
+		"name": "Bali, Indonesia",
+		"picture": "https://i.ibb.co/4J7bf3t/bali.jpg",
+		"price": "$2000",
+		"about": "Cool off in the mesmerising Betaab Valley, enjoy the breeze by the Dal Lake & more. Book holiday packages with complimentary inclusions like excursions."
+	},
+	{
+		"id": "625b0965d5a77019499c71f3",
+		"name": "New Orleans, Mexico",
+		"picture": "https://i.ibb.co/Jx8RhgN/New-Orleans.jpg",
+		"price": "$4000",
+		"about": "adventurous and thrilling Everest Base Camp Trek 12 days package with an assurity to deliver the best journey in the Himalayas. you will enjoy every second your trip with us without having any problems. "
+	},
+	{
+		"id": "625b0965989c82ebc73b311d",
+		"name": "Kerry, Ireland",
+		"picture": "https://i.ibb.co/Wp4jvF1/Kerry-Ireland.jpg",
+		"price": "$2500",
+		"about": "Goa holidays will be full of memories that last a lifetime. Every aspect of your trip to Goa is carefully chalked out considering the unique requirements, diverse interests and budget of every individual. "
+	}
+]
